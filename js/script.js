@@ -1,10 +1,10 @@
 $(document).ready(function () {
   // navi의 전체 submenu 나오게하기''
-  //   $(".navi > li")
-  //     .mouseover(function () {
-  //       $(".submenu").stop().slideDown();
-  //     })
-  //     .mouseout(function () {$(".submenu").stop().slideUp(500)});
+    // $(".navi > li")
+    //   .mouseover(function () {
+    //     $(".submenu").stop().slideDown();
+    //   })
+    //   .mouseout(function () {$(".submenu").stop().slideUp(500)});
   //navi에 해당하는 submenu가 나오는 코드//
   $(".navi > li")
     .mouseover(function () {
